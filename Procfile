@@ -1,1 +1,1 @@
-web: flash.py
+web: python.py
