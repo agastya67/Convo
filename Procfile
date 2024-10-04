@@ -1,1 +1,1 @@
-web: python virat.py
+web: python main.py
